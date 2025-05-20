@@ -1,9 +1,7 @@
 ## Opa! Eu sou o Lucas Palevoda
-
-
-- 🔭 Hoje atuo como Engenheiro de Dados.
-- 🌱 Sigo estudando Engenharia da Computação e Engenharia de Dados, tenho focado bastante ne linguagem python e em SQL.
-- 🤔 Apesar de ter alguns projetos relacionados a APIs e fornecimento de dados ainda preciso amadurecer para fazer isso da melhor forma, portanto caso tenha alguma dica ou indicação de projetos estou a disposição. 
-- 📫 Contate-me no e-mail: lucas.palevoda.s@gmail.com
-- 😄 Pronouns: Ele/Dele
-- ⚡ Fato engraçado: Sou apaixonado por hardware.
+- 🔭 Atualmente atuo como Engenheiro de Dados, contribuindo para soluções escaláveis e orientadas a dados.
+- ⚙️ Tenho experiência com ferramentas modernas de engenharia de dados, como Apache Airflow, PySpark, Airbyte e DBT.
+- 💻 Minhas principais linguagens de programação são Python e SQL, além de possuir familiaridade com DAX para análises em Power BI.
+- ☁️ Trabalho com as principais plataformas em nuvem, com maior foco em AWS e Azure.
+- 🌱 Estou constantemente em busca de aprimorar minhas habilidades técnicas e expandir meu conhecimento no ecossistema de dados.
+- 📫 Você pode entrar em contato comigo pelo e-mail: lucas.palevoda.s@gmail.com
