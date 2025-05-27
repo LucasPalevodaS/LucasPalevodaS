@@ -1,10 +1,10 @@
 ## Hey there! I'm Lucas Palevoda
-🔭 I’m currently working as a Data Engineer, contributing to scalable and data-driven solutions.
-⚙️ I have experience with modern data engineering tools such as Apache Airflow, PySpark, Airbyte, and DBT.
-💻 My main programming languages are Python and SQL, and I’m also familiar with DAX for Power BI analysis.
-☁️ I work with major cloud platforms, with a stronger focus on AWS and Azure.
-🌱 I'm always looking to improve my technical skills and expand my knowledge in the data ecosystem.
-📫 You can reach me via email at: lucas.palevoda.s@gmail.com.
+- 🔭 I’m currently working as a Data Engineer, contributing to scalable and data-driven solutions.
+- ⚙️ I have experience with modern data engineering tools such as Apache Airflow, PySpark, Airbyte, and DBT.
+- 💻 My main programming languages are Python and SQL, and I’m also familiar with DAX for Power BI analysis.
+- ☁️ I work with major cloud platforms, with a stronger focus on AWS and Azure.
+- 🌱 I'm always looking to improve my technical skills and expand my knowledge in the data ecosystem.
+- 📫 You can reach me via email at: lucas.palevoda.s@gmail.com.
 ## Languages
 - Portuguese - Native
 - English - Intermediate
